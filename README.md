@@ -1,7 +1,7 @@
 # Projects
 Projects
 
-MiniCMS Projest 
+MiniCMS Projest (README Work in progress)
 /*
 
 Enter this into CMD Console
